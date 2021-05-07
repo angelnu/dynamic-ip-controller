@@ -41,3 +41,5 @@ COPY --from=builder /workspace/manager .
 USER nonroot:nonroot
 
 ENTRYPOINT ["/manager"]
+
+LABEL org.opencontainers.image.source https://github.com/k8s-at-home/dynamic-ip-controller
