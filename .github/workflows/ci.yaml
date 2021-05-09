@@ -1,4 +1,7 @@
 name: CI
+# Common - master at https://github.com/k8s-at-home/dnsmadeeasy-webhook/blob/main/.github/workflows/ci.yaml
+# Please change master before copy here
+# TBD: job to sync workflows
 
 on:
   workflow_dispatch:
