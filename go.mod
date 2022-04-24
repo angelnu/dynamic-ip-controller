@@ -7,8 +7,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/route53 v1.4.0
 	github.com/cloudflare/cloudflare-go v0.16.0
 	github.com/go-logr/logr v0.3.0
-	github.com/onsi/ginkgo v1.14.1
-	github.com/onsi/gomega v1.10.2
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.19.0
 	go.uber.org/zap v1.15.0
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.20.2
