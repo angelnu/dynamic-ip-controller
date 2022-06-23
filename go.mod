@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.1.6
 	github.com/aws/aws-sdk-go-v2/service/route53 v1.4.0
-	github.com/cloudflare/cloudflare-go v0.16.0
+	github.com/cloudflare/cloudflare-go v0.42.0
 	github.com/go-logr/logr v0.3.0
 	github.com/onsi/ginkgo v1.14.1
 	github.com/onsi/gomega v1.10.2
